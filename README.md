@@ -18,24 +18,35 @@
 
 - ### Languages
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"><br>
-    <span>HTML</span>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"><br>
-    <span>CSS3</span>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"><br>
-    <span>JavaScript</span>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"><br>
-    <span>TypeScript</span>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"><br>
+        <span>HTML</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"><br>
+        <span>CSS3</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"><br>
+        <span>JavaScript</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"><br>
+        <span>TypeScript</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
 - ### Frameworks
 
 <p align="left" style="display: flex; gap:1rem;">
