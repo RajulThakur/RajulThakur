@@ -1,6 +1,9 @@
-<h1 align="center;">Hi 👋, I'm RajulThakur</h1>
+### Hi 👋, I'm RajulThakur
 
-## Stats
+<a href='https://www.linkedin.com/in/rajul-singh-thakur-8a967628b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://x.com/RST0964'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+
+## 📊Github Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajulThakur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -15,19 +18,13 @@
 
 - ### Languages
 
-<p align="left" style="display: flex; gap:1rem;">
-  <a
-    style="display: flex; flex-direction: column; align-items: center; text-decoration:none;"
-    href="https://www.w3.org/html/"
-    target="_blank"
-    rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      alt="html5"
-      width="40"
-      height="40" />
-      <span>HTML</span>
-  </a>
+<p align="left" style="display:flex; gap:1rem;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none; text-align: center;">
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"><br>
+    <span>HTML</span>
+  </p>
+</a>
   <a
     style="display: flex; flex-direction: column; align-items: center;"
     href="https://www.w3schools.com/css/"
