@@ -15,9 +15,9 @@
 
 - ### Languages
 
-<p align="left" display= "flex" gap="1rem">
+<p align="left" style="display: flex; gap:1rem;">
   <a
-    style="display: flex; flex-direction: column; align-items: center;"
+    style="display: flex; flex-direction: column; align-items: center; text-decoration:none;"
     href="https://www.w3.org/html/"
     target="_blank"
     rel="noreferrer">
@@ -124,7 +124,7 @@
     target="_blank"
     rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-      <span>Postgres</span>
+      <span>Postgres Sql</span>
   </a>
 </p>
 
