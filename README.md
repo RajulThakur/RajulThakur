@@ -15,7 +15,7 @@
 
 - ### Languages
 
-<p align="left" style="display: flex; gap:1rem;">
+<p align="left" display= "flex" gap="1rem">
   <a
     style="display: flex; flex-direction: column; align-items: center;"
     href="https://www.w3.org/html/"
